@@ -620,6 +620,7 @@ Docker security best practices (stop running as root)
 | --- | --- | --- |
 | Headers | Mozilla Observatory | HTTP header security scan |
 | Headers | SecurityHeaders.com | Header grading and recommendations |
+| Headers | [Security Headers Checker](https://penetrationtestservices.com/tools/security-headers-checker/) | Grades the HTTP security headers of a public page; free, no sign-up |
 | Headers | curl | Manual header inspection |
 | CORS | Burp Suite | Origin manipulation, CORS testing |
 | Cookies | Browser DevTools | Inspect Set-Cookie attributes |
